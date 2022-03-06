@@ -3,6 +3,7 @@ from dash.dependencies import Input, Output, State
 from dash.exceptions import PreventUpdate
 import numpy as np
 from numpy import cos, sin, tan, tanh, cosh, sinh, arccos, arcsin, exp, log
+import pandas  # Required for plotly
 import sympy as sp
 import plotly.figure_factory as ff
 import plotly.express as px
