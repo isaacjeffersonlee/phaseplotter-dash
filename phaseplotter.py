@@ -42,7 +42,7 @@ server = app.server
 
 app.layout = html.Div([
     html.H1('Phase Plotter', id='title'),
-    html.H4('Author: Isaac Lee | Source: https://github.com/isaacjeffersonlee/phase-dash',
+    html.H4('Author: Isaac Lee | Source: https://github.com/isaacjeffersonlee/phaseplotter-dash',
         id='author-and-source-subtitle'),
     html.H2('Input 2D System', id='system-input-subtitle'),
     dcc.Markdown("""
