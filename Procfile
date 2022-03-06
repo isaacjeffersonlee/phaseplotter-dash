@@ -1,1 +1,1 @@
-web: gunicorn phaseplot:server
+web: gunicorn phaseplotter:server
