@@ -3,7 +3,7 @@
 ### Author: Isaac Lee
 
 ## The App
-https://phase.herokuapp.com/
+https://phaseplot.herokuapp.com/
 
 ## Summary
 A little Dash web app to plot the phase portrait of a 2D system.
